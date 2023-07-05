@@ -1,2 +1,1 @@
-#!/bin/bash
-Readme script  repo
+My First Readme
