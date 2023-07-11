@@ -1,1 +1,1 @@
-readmevariables
+myreadme
